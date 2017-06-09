@@ -19,6 +19,9 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 ---
 
+##Empresa:
+Instituto pacifico SAC
+
 ##Especificaciones tecnicas
 
 - Gulp
@@ -29,9 +32,11 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 - No JS
 - [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
-#Librerias Usadas
+##Librerias Usadas
 Se usaron las Siguientes Librerias:
-´´´
+
+´´´gradle
+
     //------------------------------------------------------
     // VIEWS
     //ReciclerView
@@ -110,6 +115,7 @@ Se usaron las Siguientes Librerias:
     //Logger
     compile 'com.orhanobut:logger:1.15'
 ´´´
+
 ---
 
 [Check it out](http://sergiokopplin.github.io/indigo/) here.
