@@ -48,15 +48,15 @@ Instituto pacifico SAC
 
 ---
 ## Otras capturas de pantalla
-![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023110.png)
+![Screenshot1](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023110.png)
 
-![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023111.png)
+![Screenshot2](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023111.png)
 
-![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023114.png)
+![Screenshot3](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023114.png)
 
-![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023138.png)
+![Screenshot4](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023138.png)
 
-![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023147.png)
+![Screenshot5](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023147.png)
 
 
 ---
