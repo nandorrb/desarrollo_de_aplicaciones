@@ -1,9 +1,9 @@
 # main text of home
 name:John Doe
-bio: "A Man who travels the world eating noodles"
+bio:A Man who travels the world eating noodles
 
 # twitter summary info
-description: Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
+description:Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
 
 # if it's an external image, update below for true
 # better with square images
