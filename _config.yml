@@ -8,13 +8,13 @@ description: Bachiller Ingeniero Mecatronico, desarrollador de aplicaciones, sof
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/download.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: http://nandorrb.github.io/about/
 
 url: http://nandorrb.github.io/desarrollo_de_aplicaciones/
 # your url: http://USERNAME.github.io
