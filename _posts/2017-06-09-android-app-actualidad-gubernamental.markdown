@@ -58,6 +58,12 @@ Instituto pacifico SAC
 
 ![Screenshot5](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023171.png)
 
+![Screenshot6](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023166.png)
+
+![Screenshot7](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023159.png)
+
+![Screenshot8](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023154.png)
+
 
 ---
 
