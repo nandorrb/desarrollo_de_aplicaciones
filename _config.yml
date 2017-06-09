@@ -1,22 +1,22 @@
 # main text of home
-name:John Doe
-bio:A Man who travels the world eating noodles
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description:Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/download.jpeg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://nandorrb.github.io/about/
+resume-url: https://google.com/?q=my+resume
 
-url: http://nandorrb.github.io/desarrollo_de_aplicaciones/
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,30 +35,35 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-#twitter: mytwitter
- google: 103389751542689060033
+twitter: mytwitter
+# google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: fernando-rubio
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: nandorrb
+github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+medium: medium
 # vimeo: myvimeo
-email: nando.rrb.00@gmail.com
+email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: Fernando Rubio
-        bio: Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/download.jpeg
-       # twitter: johndoe
-  
+        picture: assets/images/profile.jpg
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -74,7 +79,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
