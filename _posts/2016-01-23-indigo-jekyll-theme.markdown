@@ -19,10 +19,10 @@ Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokop
 
 ---
 
-##Empresa:
+## Empresa:
 Instituto pacifico SAC
 
-##Especificaciones tecnicas
+## Especificaciones tecnicas
 
 - Gulp
 - BrowserSync
@@ -32,10 +32,10 @@ Instituto pacifico SAC
 - No JS
 - [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
-##Librerias Usadas
+## Librerias Usadas
 Se usaron las Siguientes Librerias:
 
-´´´gradle
+```gradle
 
     //------------------------------------------------------
     // VIEWS
@@ -113,8 +113,8 @@ Se usaron las Siguientes Librerias:
     //-------------------------------------------------------
     // LOG
     //Logger
-    compile 'com.orhanobut:logger:1.15'
-´´´
+    compile 'com.orhanobut:logger:1.15'
+```
 
 ---
 
