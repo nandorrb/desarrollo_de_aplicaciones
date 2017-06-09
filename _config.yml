@@ -35,21 +35,21 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+#twitter: mytwitter
+ google: 103389751542689060033
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: fernando-rubio
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: nandorrb
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: nando.rrb.00@gmail.com
 
 authors:
     johndoe:
