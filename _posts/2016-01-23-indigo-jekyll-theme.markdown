@@ -12,10 +12,12 @@ category: project
 author: johndoe
 externalLink: false
 ---
+# Aplicacion Android de la revista actualidad gubernamental
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497039203.png)
+
+Tiempo de desarrollo, 2 meses.
 
 ---
 
@@ -24,13 +26,40 @@ Instituto pacifico SAC
 
 ## Especificaciones tecnicas
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+- Comunicacion asincrona
+- Patrones de diseño
+- Patrones de google
+- Librerias de rapido desarrollo
+- Aplicacion totalmente nativa
+
+---
+## Optimizacion de trabajo
+### Organizacion de paquetes
+* activities
+* adapters
+* fragments
+* interfaces 
+* models
+* network
+* objects
+* utils
+* models
+
+
+---
+## Otras capturas de pantalla
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023110.png)
+
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023111.png)
+
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023114.png)
+
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023138.png)
+
+![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497023147.png)
+
+
+---
 
 ## Librerias Usadas
 Se usaron las Siguientes Librerias:
@@ -118,5 +147,3 @@ Se usaron las Siguientes Librerias:
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
