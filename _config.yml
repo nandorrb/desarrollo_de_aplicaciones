@@ -1,9 +1,9 @@
 # main text of home
 name: Fernando Rubio
-bio: Bachiller Ingeniero Mecatronico, desarrollador de aplicaciones, software y hardware.
+bio: Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
 
 # twitter summary info
-description: Bachiller Ingeniero Mecatronico, desarrollador de aplicaciones, software y hardware.
+description: Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,10 +54,10 @@ email: nando.rrb.00@gmail.com
 authors:
     johndoe:
         name: Fernando Rubio
-        bio: Bachiller Ingeniero Mecatronico, desarrollador de aplicaciones, software y hardware.
+        bio: Bachiller Ingeniero Mecatronico y desarrollador de aplicaciones.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/download.jpeg
+       # twitter: johndoe
   
 
 # do you want a larger site? change the option below
