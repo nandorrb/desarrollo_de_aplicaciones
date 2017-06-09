@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: http://mecatronica.pe/about
 
-url: http://mecatronica.pe/desarrollo_de_aplicaciones
+url: http://nandorrb.github.io/desarrollo_de_aplicaciones
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
