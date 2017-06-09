@@ -14,7 +14,7 @@ picture: assets/images/download.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: http://nandorrb.github.io/about
+resume-url: http://mecatronica.pe/about
 
 url: http://mecatronica.pe/desarrollo_de_aplicaciones
 # your url: http://USERNAME.github.io
