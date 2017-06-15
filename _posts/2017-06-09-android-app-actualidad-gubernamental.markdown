@@ -24,6 +24,12 @@ Tiempo de desarrollo, 2 meses.
 ## Empresa:
 Instituto pacifico SAC
 
+## Lenguaje usado
+Kotlin y Java
+
+## IDE usado
+Android Studio
+
 ## Especificaciones tecnicas
 
 - Comunicacion asincrona
@@ -31,6 +37,8 @@ Instituto pacifico SAC
 - Patrones de google
 - Librerias de rapido desarrollo
 - Aplicacion totalmente nativa
+- Desarrollo de ultiples Apks usando flavors.
+- Desarrollo en IOS usando el mismo codigo
 
 ---
 ## Optimizacion de trabajo
