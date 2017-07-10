@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Aplicacion Actualidad Gubernamental"
+title: ":ramen: Aplicaciones Instituto Pacifico SAC"
 layout: post
 date: 2017-06-09 10:38
 tag: jekyll
@@ -12,8 +12,14 @@ category: project
 author: johndoe
 externalLink: false
 ---
-# Aplicacion Android de la revista actualidad gubernamental
-
+# Aplicaciones Android de la empresa INSTITUTO PACIFICO SAC
+Aplicaciones desarrolladas:
+1. Actualidad gubernamental
+> https://play.google.com/store/apps/details?id=com.institutopacifico.actualidad.gubernamental
+2. Actualidad Civil
+> https://play.google.com/store/apps/details?id=com.institutopacifico.actualidad.civil
+3. Actualidad Penal
+> https://play.google.com/store/apps/details?id=com.institutopacifico.actualidad.penal
 
 ![Screenshot](https://raw.githubusercontent.com/nandorrb/desarrollo_de_aplicaciones/master/assets/Application_AG/Screenshot_1497039203.png)
 
